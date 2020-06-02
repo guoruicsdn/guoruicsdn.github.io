@@ -105,4 +105,7 @@ search:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  #type: ''
+  type: git;
+  repo: https://github.com/guoruicsdn/guoruicsdn.github.io.git	#github²Ö¿â
+  branch: master
